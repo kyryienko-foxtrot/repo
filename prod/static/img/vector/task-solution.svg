@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M30 9H35" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 9H27" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 22H24" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 22H28" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 12H31" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 12H19" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.1 34H5C2.8 34 1 31.2 1 29V5C1 2.8 2.8 1 5 1H37C39.2 1 41 2.8 41 5V22.3" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 9C9.1 9 10 9.9 10 11C10 12.1 9.1 13 8 13C6.9 13 6 12.1 6 11C6 9.9 6.9 9 8 9ZM8 7C5.8 7 4 8.8 4 11C4 13.2 5.8 15 8 15C10.2 15 12 13.2 12 11C12 8.8 10.2 7 8 7Z" fill="#454AFD"/>
+<path d="M8.8999 10.0999L12.0999 6.8999" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 25H19" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 25H24" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 22C9.1 22 10 22.9 10 24C10 25.1 9.1 26 8 26C6.9 26 6 25.1 6 24C6 22.9 6.9 22 8 22ZM8 20C5.8 20 4 21.8 4 24C4 26.2 5.8 28 8 28C10.2 28 12 26.2 12 24C12 21.8 10.2 20 8 20Z" fill="#454AFD"/>
+<path d="M8.8999 23.0999L12.0999 19.8999" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 26C41.5 26 46 30.5 46 36C46 41.5 41.5 46 36 46C30.5 46 26 41.5 26 36C26 30.5 30.5 26 36 26ZM36 24C29.4 24 24 29.4 24 36C24 42.6 29.4 48 36 48C42.6 48 48 42.6 48 36C48 29.4 42.6 24 36 24Z" fill="#454AFD"/>
+<path d="M31 37L34 40L41 33" stroke="#454AFD" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
